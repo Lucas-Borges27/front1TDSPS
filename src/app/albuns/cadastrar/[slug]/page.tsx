@@ -14,7 +14,7 @@ const albunsIniciais: propAlbuns = {
   lancamento: '',
   faixas: '',
   descricao: '',
-  exibir: 1,
+  exibir: '1',
   links: '',
   slug: '',
   nomeBanda: '',
