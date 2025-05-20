@@ -19,14 +19,14 @@ export interface propBandas {
 }
 
 export interface propAlbuns {
-    id : string;
+    id : number;
     album : string;
     banda : string;
     categoria : string;
     imagem : string;
     lancamento : string;
     faixas : string;
-    exibir : string;
+    exibir : number;
     integrantes : string;
     nomeBanda : string;
     descricao : string;
