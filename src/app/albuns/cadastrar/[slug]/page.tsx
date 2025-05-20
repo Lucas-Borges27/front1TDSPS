@@ -6,7 +6,7 @@ import { propEstilos, propAlbuns, propBandas } from '@/app/types/props';
 import API_BASE from '@/app/services/api';
 
 const albunsIniciais: propAlbuns = {
-  id: '0',
+  id: '',
   album: '',
   banda: '',
   categoria: '',
