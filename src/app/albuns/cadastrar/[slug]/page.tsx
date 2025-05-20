@@ -18,7 +18,9 @@ const albunsIniciais: propAlbuns = {
   links: '',
   slug: '',
   nomeBanda: '',
-  nomeEstilo: ''
+  nomeEstilo: '',
+  integrantes: '',
+  slugBanda: ''
 }
 
 const Album = () => {
